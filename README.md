@@ -11,5 +11,7 @@ Na pasta src, execute `npm i` para instalar as dependencias, e após instaladas,
 
 ## links úteis
 https://github.com/pedroslopez/whatsapp-web.js/
+
 https://wwebjs.dev/
+
 https://www.npmjs.com/package/pm2
